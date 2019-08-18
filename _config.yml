@@ -38,7 +38,7 @@ ga:
 #
 #
 #  _post/ 下的文章更换成你自己的文章
-#  帮忙star一下，感谢~????地址： https://github.com/shaohuacheng/shaohuacheng.github.io
+#  帮忙star一下，感谢~地址： https://github.com/shaohuacheng/shaohuacheng.github.io
 #
 #
 # 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
@@ -60,7 +60,6 @@ blog_button:
 nav:
     - {title: 所有文章, description: archive, url: '/archive'}   
     - {title: 标签, description: tags, url: '/tags'}      
-    - {title: 随笔, description: essay, url: '/essay'}      
     - {title: 关于我, description: about, url: '/about'}      
     
 
